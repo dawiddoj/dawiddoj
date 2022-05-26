@@ -1,8 +1,12 @@
 # 💫About Me :
 Cześć!
+
 I'm Dawid.
+
 I am currently studying at Maria Curie-Skłodowska University, Lublin.
+
 I ❤️ love to learn, and GitHub is a place where I upload my projects and experiments.
+
 Currently, I am focused on data analysis with Python and BI tools like Tableau, as well as cloud services.
 
 ## 🌐Socials
