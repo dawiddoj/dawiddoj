@@ -1,9 +1,8 @@
 # 💫About Me :
 Cześć!  
-I'm Dawid.  
-I am currently studying at University of Warsaw.  
-I love to learn, and GitHub is a place where I upload my projects and experiments.  
-Currently, I am focused on data analysis with Python and BI tools like Tableau, as well as cloud services.
+I'm Dawid. 
+GitHub is a place where I upload my projects and experiments.  
+Currently, I am focused on data analysis with Python and ML, AI tools like TensorFlow.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawiddoj/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dojnik) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dojnikow)
